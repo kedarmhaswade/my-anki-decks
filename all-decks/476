@@ -1,0 +1,19 @@
+<svg height="168" width="252.00000000000003" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_9" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.3362617790699005,0,0,0.38461241126060486,35.53073663916439,79.44269153382629) " x="201.73573" xml:space="preserve" y="153.15704">Side chain</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_10" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.3362617790699005,0,0,0.38461241126060486,35.53073663916439,79.44269153382629) " x="395.69058" xml:space="preserve" y="-71.78969">Carboxyl</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_11" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.3362617790699005,0,0,0.38461241126060486,35.53073663916439,79.44269153382629) " x="203.98634" xml:space="preserve" y="-79.31041">Side hydrogen</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_12" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.3362617790699005,0,0,0.38461241126060486,35.53073663916439,79.44269153382629) " x="36.85956" xml:space="preserve" y="-47.07876">Amino</text>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_13" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.26388208740536534,0,0,0.30889166856605854,46.725903517908264,81.63471016836596) " x="218.97159" xml:space="preserve" y="60.60256">α carbon</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  
+ </g>
+</svg>
